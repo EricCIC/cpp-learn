@@ -1,2 +1,3 @@
 # cpp-learn
-my first repo
+* 演算法
+* 物件導向
